@@ -1,6 +1,9 @@
 # Smart Car - Safety System
  Intelligent driver safety system developed as part of an IoT project — 2nd year ISIMM
 
+## 🎥 Project Demo
+https://youtube.com/shorts/Xk-KSTW5c6g?feature=share
+
 ## Description
 Smart Car is an embedded system that monitors the driver's condition in real time to prevent road accidents caused by drowsiness or alcohol consumption.
 
